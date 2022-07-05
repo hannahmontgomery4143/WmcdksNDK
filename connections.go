@@ -3,8 +3,6 @@ package route
 import (
 	"bytes"
 	"encoding/json"
-	"net/http"
-	"strconv"
 	"time"
 
 	"github.com/Dreamacro/clash/tunnel/statistic"
